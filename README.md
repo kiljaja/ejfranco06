@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilio Franco</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">A passionate Full Stack Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [emiliofranco.dev](emiliofranco.dev)
 
